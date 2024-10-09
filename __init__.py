@@ -1,3 +1,3 @@
-# __init__.py for the FacePop extension
+# __init__.py for the Overlay extension
 
 __version__ = "1.0.0"
